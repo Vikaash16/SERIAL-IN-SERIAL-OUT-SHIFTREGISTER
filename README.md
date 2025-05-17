@@ -43,10 +43,13 @@ q[2] <= q[1];
 q[3] <= q[2];
 end
 endmodule
-Developed by:Vikaash P
- RegisterNumber:212223240180
+Developed by:Vikaash P RegisterNumber:212223240180
 
 */
+```
+```
+Developed by:Vikaash P
+RegisterNumber:212223240180
 ```
 
 **RTL LOGIC FOR SISO Shift Register**
